@@ -7,4 +7,4 @@ function get(){
     console.log("111")
 }
  var b=2;
- var c=2;
+console.log("你好")
