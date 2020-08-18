@@ -8,3 +8,8 @@ function get(){
 }
  var b=2;
 console.log("你好")
+constructor(props) {
+    super(props);
+    
+}
+
